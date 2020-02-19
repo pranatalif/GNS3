@@ -1,0 +1,23 @@
+19/02/2020 17:16:49 passing arg to libvncserver: -rfbport
+19/02/2020 17:16:49 passing arg to libvncserver: 5904
+19/02/2020 17:16:49 passing arg to libvncserver: -rfbportv6
+19/02/2020 17:16:49 passing arg to libvncserver: 5904
+19/02/2020 17:16:49 passing arg to libvncserver: -listen
+19/02/2020 17:16:49 passing arg to libvncserver: 0.0.0.0
+19/02/2020 17:16:49 x11vnc version: 0.9.13 lastmod: 2011-08-10  pid: 23822
+19/02/2020 17:16:49 
+19/02/2020 17:16:49 wait_for_client: WAIT:100
+19/02/2020 17:16:49 
+19/02/2020 17:16:49 initialize_screen: fb_depth/fb_bpp/fb_Bpl 24/32/2560
+19/02/2020 17:16:49 scaling screen: 640x480 -> 1024x768
+19/02/2020 17:16:49 scaling screen: scale_fac_x=1.60000 scale_fac_y=1.60000
+19/02/2020 17:16:49 
+19/02/2020 17:16:49 Listening for VNC connections on TCP port 5904
+19/02/2020 17:16:49 Listening for VNC connections on TCP6 port 5904
+19/02/2020 17:16:49 listen6: bind: Address already in use
+19/02/2020 17:16:49 Not listening on IPv6 interface.
+19/02/2020 17:16:49 
+
+The VNC desktop is:      fox4:4
+PORT=5904
+caught signal: 15
